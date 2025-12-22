@@ -1,0 +1,15 @@
+# Node Modules (untuk Frontend & Server)
+node_modules/
+npm-debug.log
+.env
+.DS_Store
+
+# Build files (untuk React)
+dist/
+build/
+
+# C++ Build files (untuk RVM Machine)
+*.o
+*.out
+*.exe
+rvm-machine/build/
